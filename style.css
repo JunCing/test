@@ -7,17 +7,8 @@ body {
 }
 
 h3 {
-  position: relative;
-  padding-left: 60px;
   text-transform: uppercase;
   color: #5f7c57;
-}
-
-h3 > img {
-  position: absolute;
-  top: -12px;
-  left: 0px;
-  width: 50px;
 }
 
 .bz-form {
@@ -27,7 +18,7 @@ h3 > img {
 }
 
 .bz-container {
-  width: 80%;
+  width: 90%;
   margin: auto;
   background-color: #fff;
   padding: 30px 40px 20px;
